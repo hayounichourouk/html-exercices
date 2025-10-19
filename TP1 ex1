@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--La charset ISO-8859-1 ne permet pas d'afficher correctement les caractères spéciaux, par contre l'UTF-8 les supporte. -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ma page</title>
+  </head>
+  <body>
+    <p>
+      Voici le contenu de ma première page web avec des caractères spéciaux : é
+      ,è,à ,ù
+    </p>
+  </body>
+</html>
